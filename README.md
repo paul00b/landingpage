@@ -2,7 +2,7 @@
 # README
 
 ### Liens utiles :
-- Lien de production (les landing pages) : https://apprends-le-code-avec-thp.herokuapp.com/
+- Lien de production (les landing pages) : https://landing-page-thp.herokuapp.com/
 - Lien vers l'article : https://medium.com/@faou.jordane/5-bonnes-raisons-de-partir-en-vacances-avec-ses-potes-et-apprendre-%C3%A0-coder-gratuitement-e56c8434e469
 - Lien vers notre Google Analytics : https://analytics.google.com/analytics/web/?authuser=0#/embed/report-home/a118988337w176146389p175052214
 
