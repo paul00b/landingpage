@@ -11,13 +11,13 @@ Finalement, l'activité de nos visiteurs est surveillée grâce à google analyt
 
 ### Notre travail :
 
-**- La landing page**<br>
+**- La landing page** <br>
 - Lien de production [landing page](https://landing-page-thp.herokuapp.com/)<br>
 
-**- Le call to action**<br>
+**- Le call to action** <br>
 - Une inscription à la newsletter de The Hacking Project via MailChimp
-<br>
-**- L'acquisition**<br>
+
+**- L'acquisition** <br>
 
 - Bot Twitter envoyant un Tweet aux BDE <br>
 - Article [Medium](https://medium.com/@faou.jordane/5-bonnes-raisons-de-partir-en-vacances-avec-ses-potes-et-apprendre-%C3%A0-coder-gratuitement-e56c8434e469)<br>
