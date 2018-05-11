@@ -1,5 +1,5 @@
 
-# README
+# Semaine 6 THP - Landing Page
 
 ### Notre travail :
 
