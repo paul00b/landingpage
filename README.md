@@ -22,11 +22,10 @@ Finalement, l'activité de nos visiteurs est surveillée grâce à google analyt
 **- L'acquisition** <br>
 
 - Bot Twitter envoyant un Tweet aux BDE, Notre compte juste [ici](https://twitter.com/CoderThp)
-<br>
 - Article [Medium](https://medium.com/@faou.jordane/5-bonnes-raisons-de-partir-en-vacances-avec-ses-potes-et-apprendre-%C3%A0-coder-gratuitement-e56c8434e469)
 
 **- Analyse des metrics**<br>
--[Google Analytics](http://analytics.google.com/analytics/web/?authuser=0#/embed/report-home/a118988337w176146389p175052214)
+- [Google Analytics](http://analytics.google.com/analytics/web/?authuser=0#/embed/report-home/a118988337w176146389p175052214)
 - Liens Twitter & Medium, différents nous permettant de voir les effets de nos campagnes.
 
 
