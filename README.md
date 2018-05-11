@@ -1,6 +1,8 @@
 
 # Semaine 6 THP - Landing Page
 
+
+
 ### Introduction :
 
 Ce travail a vocation à inciter nos visiteurs à s'incrire à la prochaine session THP , celle d'été. Pour cette action marketing nous visons les étudiants en vacanes et nous avons donc choisi l'angle de la légèreté et de l'humour.
@@ -19,7 +21,8 @@ Finalement, l'activité de nos visiteurs est surveillée grâce à google analyt
 
 **- L'acquisition** <br>
 
-- Bot Twitter envoyant un Tweet aux BDE <br>
+- Bot Twitter envoyant un Tweet aux BDE, Notre compte juste [ici](https://twitter.com/CoderThp)
+<br>
 - Article [Medium](https://medium.com/@faou.jordane/5-bonnes-raisons-de-partir-en-vacances-avec-ses-potes-et-apprendre-%C3%A0-coder-gratuitement-e56c8434e469)<br>
 
 
@@ -55,11 +58,3 @@ Romain : @ <br>
 Théo : @ <br>
 Paul : @Paulb <br>
 Jordane : @Jordane
-
-### Liens utiles :
-
-- Lien vers notre [Google Analytics](https://analytics.google.com/analytics/web/?authuser=0#/embed/report-home/a118988337w176146389p175052214)
-- Lien de production [landing page](https://landing-page-thp.herokuapp.com/)
-- Article [Medium](https://medium.com/@faou.jordane/5-bonnes-raisons-de-partir-en-vacances-avec-ses-potes-et-apprendre-%C3%A0-coder-gratuitement-e56c8434e469)
-- Notre compte [Twitter](https://twitter.com/CoderThp)
-
