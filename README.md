@@ -12,25 +12,28 @@ Finalement, l'activité de nos visiteurs est surveillée grâce à google analyt
 ### Rapport d'activité :
 
 - [x] La landing page
-- Lien de production [landing page](https://landing-page-thp.herokuapp.com/)
+Lien de production [landing page](https://landing-page-thp.herokuapp.com/)
 
 - [x] Le call to action
 Une inscription à la newsletter de The Hacking Project via MailChimp
 
 - L'acquisition
-- [x] Bot Twitter envoyant un Tweet aux BDE
 
-- [x] Article [Medium](https://medium.com/@faou.jordane/5-bonnes-raisons-de-partir-en-vacances-avec-ses-potes-et-apprendre-%C3%A0-coder-gratuitement-e56c8434e469)
+Bot Twitter envoyant un Tweet aux BDE <br>
+Article [Medium](https://medium.com/@faou.jordane/5-bonnes-raisons-de-partir-en-vacances-avec-ses-potes-et-apprendre-%C3%A0-coder-gratuitement-e56c8434e469)
+
 
 - Analyse des metrics
-- [x][Google Analytics](https://analytics.google.com/analytics/web/?authuser=0#/embed/report-home/a118988337w176146389p175052214)
-- [x]Lien Twitter différent, nous permettant de voir l'effet de la campagne. Idem pour l'article Medium
+
+[Google Analytics](https://analytics.google.com/analytics/web/?authuser=0#/embed/report-home/a118988337w176146389p175052214)<br>
+Liens Twitter & Medium, différents nous permettant de voir les effets des campagnes.
 
 ### Liens utiles :
 
 - Lien vers notre [Google Analytics](https://analytics.google.com/analytics/web/?authuser=0#/embed/report-home/a118988337w176146389p175052214)
 - Lien de production [landing page](https://landing-page-thp.herokuapp.com/)
 - Article [Medium](https://medium.com/@faou.jordane/5-bonnes-raisons-de-partir-en-vacances-avec-ses-potes-et-apprendre-%C3%A0-coder-gratuitement-e56c8434e469)
+- Notre compte [Twitter](https://twitter.com/CoderThp)
 
 ### Notre Team
 #### Developpement :
