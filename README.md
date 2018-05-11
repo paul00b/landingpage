@@ -28,7 +28,7 @@ Finalement, l'activité de nos visiteurs est surveillée grâce à google analyt
 
 **- Analyse des metrics**<br>
 
-- [Google Analytics](https://analytics.google.com/analytics/web/?authuser=0#/embed/report-home/a118988337w176146389p175052214)<br>
+- [Google Analytics](https://analytics.google.com/analytics/web/?authuser=0#/embed/report-home/a118988337w176146389p175052214)
 - Liens Twitter & Medium, différents nous permettant de voir les effets des campagnes.
 
 
